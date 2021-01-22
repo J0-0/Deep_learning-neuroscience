@@ -5,7 +5,9 @@ This project reproduces supervised feature learning & classification of mental s
 Bashivan, et al. "Learning Representations from EEG with Deep Recurrent-Convolutional Neural Networks." International conference on learning representations (2016).
 
 https://github.com/BashivanLab/EEGLearn
+
 https://github.com/tevisgehr/EEG-Classification
+
 Ribeiro, et al. "Why should I trust you? : Explaining the Predictions of Any Classifier". International conference on knowledge discovery and data mining (2016).
 https://github.com/marcotcr/lime
 
