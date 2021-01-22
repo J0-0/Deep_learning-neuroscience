@@ -1,1 +1,1 @@
-# Deep_learning-neuroscience
+# Deep_learning-EEG-Classification
